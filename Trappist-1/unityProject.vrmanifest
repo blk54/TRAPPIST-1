@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.trappist1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\bkoss\\OneDrive\\Documents\\GitHub\\VR\\TRAPPIST-1\\Trappist-1\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Trappist-1 [Testing]"
+        }
+      }
+    }
+  ]
+}
